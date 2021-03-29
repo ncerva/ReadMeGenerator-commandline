@@ -1,16 +1,16 @@
-# 1
+# Read Me Generator
 ## description
-2
+1
 ## installation
-4
-## usage information
 3
+## usage information
+2
 ## constribution guidelines
-5
+4
 ## test instructions
-6
+5
 ## license
-undefined
+
   
   ![github License](https://img.shields.io/badge/license--blue.svg)
   
